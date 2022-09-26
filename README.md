@@ -2,4 +2,4 @@
 
 This repository exists because GitHub (currently) [lacks the ability to archive discussions](https://github.com/community/community/discussions/3244).
 
-When this feature is added, these old discussions will be moved back into the dosbox-staging repo and archived.
+Once added, the discussions will be moved back into the dosbox-staging repo and archived.
